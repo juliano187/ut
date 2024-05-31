@@ -12,7 +12,10 @@ body{
     height: 600px;
 }
     
-   
+ .footer{
+   background-color:rgb(155, 153, 153);
+   height:100px;
+}  
 
 header{
     display: flex;
